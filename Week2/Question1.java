@@ -1,4 +1,4 @@
-package Week2;
+package Shriyash_Kulkarni_NVIDIA_Assignments.Week2;
 import java.util.*;
 
 public class Question1 {
